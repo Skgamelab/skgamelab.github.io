@@ -1,2 +1,2 @@
-# pivot.github.io
+# skgamelab.github.io
 Privacy Policy
